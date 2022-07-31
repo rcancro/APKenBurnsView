@@ -3,7 +3,7 @@
 //
 
 import Foundation
-
+import UIKit
 
 internal protocol AnimationDataSource {
     func buildAnimationForImage(image: UIImage, forViewPortSize viewPortSize: CGSize) -> ImageAnimation

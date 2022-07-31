@@ -3,7 +3,7 @@
 //
 
 import Foundation
-
+import UIKit
 
 protocol ImageAnimationCalculatorProtocol {
     func buildPinnedToEdgesPosition(imageSize: CGSize, viewPortSize: CGSize) -> CGPoint

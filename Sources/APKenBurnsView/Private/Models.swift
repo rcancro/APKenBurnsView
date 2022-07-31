@@ -3,7 +3,7 @@
 //
 
 import Foundation
-
+import UIKit
 
 enum TransitionEffect {
     case TransitionEffectCrossFade

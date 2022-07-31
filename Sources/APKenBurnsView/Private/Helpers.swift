@@ -3,7 +3,7 @@
 //
 
 import Foundation
-
+import UIKit
 
 extension CGSize {
     func scaledSize(scale: CGFloat) -> CGSize {
